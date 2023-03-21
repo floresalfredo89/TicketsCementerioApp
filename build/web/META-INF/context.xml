@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/TicketsCementerioApp">
+    
+    <!--
+    <Resource name="jdbc/tickets" auth="Container" type="javax.sql.DataSource"
+        
+        maxActive="10" maxIdle="3" maxWait="500" username="root" password="secret"
+        
+        driverClassName="com.mysql.cj.jdbc.Driver" url="jdbc:mysql://localhost:33060/tickets"></Resource>
+        
+         -->
+        
+</Context>
